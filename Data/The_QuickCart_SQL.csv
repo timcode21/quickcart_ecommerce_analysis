@@ -1,0 +1,481 @@
+order_id,order_date,order_month,customer_city,product_id,product_name,category,quantity,unit_price,revenue,order_status,delivery_date,delivery_days
+1,2024-01-23,2024-01,Lagos,18,Product_18,"Home Appliance",3,126120.00,378360.00,Delivered,2024-02-01,9
+106,2024-07-31,2024-07,"Port Harcourt",7,Product_7,Kitchen,5,81150.00,405750.00,Delivered,2024-08-08,8
+107,2024-03-10,2024-03,"Port Harcourt",11,Product_11,"Home Appliance",5,47400.00,237000.00,Cancelled,NULL,NULL
+108,2024-01-02,2024-01,Enugu,16,Product_16,Electronics,2,72520.00,145040.00,Delivered,2024-01-07,5
+109,2024-09-04,2024-09,Ibadan,7,Product_7,Kitchen,2,90050.00,180100.00,Delivered,2024-09-13,9
+110,2024-04-29,2024-04,Ibadan,24,Product_24,Kitchen,4,108730.00,434920.00,Cancelled,NULL,NULL
+2,2024-11-12,2024-11,Abuja,23,Product_23,"Home Appliance",1,16420.00,16420.00,Cancelled,NULL,NULL
+111,2024-07-14,2024-07,Kano,19,Product_19,"Home Appliance",3,131760.00,395280.00,Delivered,2024-07-17,3
+112,2024-08-13,2024-08,Enugu,5,Product_5,Electronics,1,75730.00,75730.00,Delivered,NULL,NULL
+3,2024-04-26,2024-04,"Port Harcourt",9,Product_9,"Home Appliance",4,99000.00,396000.00,Delivered,2024-04-28,2
+113,2024-05-15,2024-05,Enugu,18,Product_18,"Home Appliance",4,143580.00,574320.00,Delivered,2024-05-22,7
+4,2024-07-05,2024-07,Enugu,21,Product_21,"Home Appliance",1,95280.00,95280.00,Delivered,2024-07-11,6
+114,2024-11-16,2024-11,Lagos,8,Product_8,"Home Appliance",3,149640.00,448920.00,Delivered,2024-11-24,8
+115,2024-02-16,2024-02,Lagos,15,Product_15,"Home Appliance",2,107160.00,214320.00,Delivered,2024-02-18,2
+5,2024-03-28,2024-03,Enugu,23,Product_23,"Home Appliance",5,40750.00,203750.00,Delivered,2024-04-01,4
+116,2024-01-15,2024-01,Abuja,8,Product_8,"Home Appliance",5,67690.00,338450.00,Delivered,2024-01-16,1
+117,2024-12-15,2024-12,"Port Harcourt",20,Product_20,Electronics,2,79670.00,159340.00,Delivered,2024-12-18,3
+118,2024-10-25,2024-10,Enugu,1,Product_1,Electronics,4,136170.00,544680.00,Delivered,2024-11-02,8
+6,2024-06-15,2024-06,Ibadan,13,Product_13,Kitchen,3,19270.00,57810.00,Delivered,2024-06-16,1
+7,2024-10-17,2024-10,Enugu,16,Product_16,Electronics,4,133860.00,535440.00,Cancelled,NULL,NULL
+8,2024-11-25,2024-11,Kano,9,Product_9,"Home Appliance",5,69980.00,349900.00,Delivered,2024-11-30,5
+9,2024-10-25,2024-10,"Port Harcourt",3,Product_3,"Home Appliance",1,130550.00,130550.00,Delivered,2024-10-29,4
+10,2024-03-19,2024-03,Kano,15,Product_15,"Home Appliance",5,45200.00,226000.00,Delivered,2024-03-26,7
+47,2024-10-10,2024-10,Lagos,22,Product_22,Kitchen,5,115120.00,575600.00,Cancelled,NULL,NULL
+12,2024-11-24,2024-11,Enugu,24,Product_24,Kitchen,3,146060.00,438180.00,Delivered,2024-11-29,5
+13,2024-04-01,2024-04,Enugu,17,Product_17,Electronics,5,37850.00,189250.00,Delivered,2024-04-03,2
+14,2024-07-10,2024-07,Lagos,20,Product_20,Electronics,3,78400.00,235200.00,Delivered,2024-07-19,9
+119,2024-12-12,2024-12,Kano,10,Product_10,Kitchen,4,106640.00,426560.00,Delivered,2024-12-14,2
+15,2024-02-27,2024-02,Ibadan,8,Product_8,"Home Appliance",1,43720.00,43720.00,Cancelled,NULL,NULL
+16,2024-10-17,2024-10,"Port Harcourt",3,Product_3,"Home Appliance",5,117220.00,586100.00,Cancelled,NULL,NULL
+17,2024-03-06,2024-03,Kano,14,Product_14,Kitchen,2,140050.00,280100.00,Delivered,2024-03-15,9
+18,2024-12-19,2024-12,Ibadan,15,Product_15,"Home Appliance",5,73210.00,366050.00,Delivered,2024-12-24,5
+19,2024-05-06,2024-05,Kano,8,Product_8,"Home Appliance",1,19940.00,19940.00,Delivered,NULL,NULL
+20,2024-11-19,2024-11,Lagos,17,Product_17,Electronics,2,48990.00,97980.00,Delivered,2024-11-21,2
+21,2024-09-05,2024-09,Kano,16,Product_16,Electronics,2,119850.00,239700.00,Delivered,2024-09-08,3
+22,2024-07-27,2024-07,"Port Harcourt",15,Product_15,"Home Appliance",1,104270.00,104270.00,Delivered,2024-07-29,2
+23,2024-11-26,2024-11,Lagos,8,Product_8,"Home Appliance",2,36630.00,73260.00,Delivered,2024-12-03,7
+24,2024-08-17,2024-08,Lagos,15,Product_15,"Home Appliance",5,23710.00,118550.00,Delivered,2024-08-20,3
+25,2024-11-29,2024-11,Lagos,8,Product_8,"Home Appliance",2,66900.00,133800.00,Cancelled,NULL,NULL
+26,2024-09-03,2024-09,Lagos,13,Product_13,Kitchen,3,139710.00,419130.00,Delivered,2024-09-10,7
+120,2024-08-21,2024-08,Lagos,8,Product_8,"Home Appliance",4,90070.00,360280.00,Delivered,2024-08-25,4
+27,2024-08-20,2024-08,Abuja,10,Product_10,Kitchen,2,145620.00,291240.00,Delivered,2024-08-29,9
+121,2024-10-21,2024-10,"Port Harcourt",9,Product_9,"Home Appliance",1,89230.00,89230.00,Delivered,NULL,NULL
+122,2024-12-17,2024-12,Ibadan,8,Product_8,"Home Appliance",5,122270.00,611350.00,Delivered,2024-12-18,1
+123,2024-04-22,2024-04,Enugu,22,Product_22,Kitchen,2,97950.00,195900.00,Delivered,2024-05-02,10
+28,2024-10-23,2024-10,Kano,16,Product_16,Electronics,5,138710.00,693550.00,Delivered,2024-10-24,1
+29,2024-09-28,2024-09,Kano,3,Product_3,"Home Appliance",2,66530.00,133060.00,Delivered,2024-10-07,9
+124,2024-11-17,2024-11,Ibadan,24,Product_24,Kitchen,2,22620.00,45240.00,Delivered,2024-11-22,5
+125,2024-05-31,2024-05,Kano,12,Product_12,"Home Appliance",5,80250.00,401250.00,Delivered,2024-06-07,7
+30,2024-10-18,2024-10,Enugu,19,Product_19,"Home Appliance",5,83190.00,415950.00,Delivered,2024-10-28,10
+31,2024-05-13,2024-05,Enugu,21,Product_21,"Home Appliance",3,74010.00,222030.00,Delivered,2024-05-19,6
+32,2024-02-07,2024-02,Lagos,18,Product_18,"Home Appliance",2,80820.00,161640.00,Delivered,2024-02-17,10
+33,2024-03-08,2024-03,Abuja,12,Product_12,"Home Appliance",3,32080.00,96240.00,Cancelled,NULL,NULL
+34,2024-10-05,2024-10,Kano,1,Product_1,Electronics,5,51910.00,259550.00,Delivered,2024-10-15,10
+35,2024-12-05,2024-12,Enugu,18,Product_18,"Home Appliance",2,48130.00,96260.00,Delivered,2024-12-08,3
+36,2024-11-05,2024-11,Ibadan,17,Product_17,Electronics,4,45160.00,180640.00,Delivered,2024-11-11,6
+37,2024-01-27,2024-01,Ibadan,5,Product_5,Electronics,3,32620.00,97860.00,Delivered,2024-02-03,7
+38,2024-08-14,2024-08,Enugu,5,Product_5,Electronics,5,15040.00,75200.00,Delivered,2024-08-21,7
+39,2024-07-08,2024-07,Ibadan,2,Product_2,"Home Appliance",3,39410.00,118230.00,Delivered,2024-07-11,3
+40,2024-05-07,2024-05,"Port Harcourt",20,Product_20,Electronics,2,139610.00,279220.00,Delivered,2024-05-13,6
+41,2024-05-01,2024-05,Abuja,14,Product_14,Kitchen,1,35110.00,35110.00,Cancelled,NULL,NULL
+42,2024-06-19,2024-06,Abuja,9,Product_9,"Home Appliance",2,120230.00,240460.00,Delivered,2024-06-26,7
+43,2024-02-25,2024-02,"Port Harcourt",12,Product_12,"Home Appliance",3,124880.00,374640.00,Delivered,2024-02-26,1
+126,2024-05-19,2024-05,Ibadan,24,Product_24,Kitchen,3,122590.00,367770.00,Delivered,2024-05-24,5
+127,2024-08-27,2024-08,Abuja,22,Product_22,Kitchen,4,145420.00,581680.00,Cancelled,NULL,NULL
+128,2024-10-12,2024-10,"Port Harcourt",12,Product_12,"Home Appliance",3,91840.00,275520.00,Delivered,NULL,NULL
+129,2024-11-22,2024-11,Abuja,16,Product_16,Electronics,1,96740.00,96740.00,Cancelled,NULL,NULL
+130,2024-10-14,2024-10,"Port Harcourt",23,Product_23,"Home Appliance",3,100890.00,302670.00,Delivered,2024-10-24,10
+44,2024-04-26,2024-04,Lagos,9,Product_9,"Home Appliance",3,99810.00,299430.00,Delivered,2024-04-30,4
+131,2024-02-29,2024-02,Lagos,8,Product_8,"Home Appliance",5,28990.00,144950.00,Delivered,2024-03-01,1
+45,2024-07-23,2024-07,Ibadan,6,Product_6,"Home Appliance",5,144750.00,723750.00,Delivered,2024-08-01,9
+46,2024-05-15,2024-05,Ibadan,14,Product_14,Kitchen,5,147790.00,738950.00,Delivered,2024-05-25,10
+132,2024-08-20,2024-08,Abuja,14,Product_14,Kitchen,1,126720.00,126720.00,Delivered,2024-08-29,9
+47,2024-02-29,2024-02,"Port Harcourt",1,Product_1,Electronics,5,139580.00,697900.00,Delivered,2024-03-10,10
+48,2024-10-02,2024-10,Enugu,11,Product_11,"Home Appliance",5,53950.00,269750.00,Delivered,2024-10-06,4
+133,2024-11-11,2024-11,"Port Harcourt",15,Product_15,"Home Appliance",2,129760.00,259520.00,Delivered,2024-11-16,5
+49,2024-03-04,2024-03,Ibadan,13,Product_13,Kitchen,3,87620.00,262860.00,Delivered,2024-03-09,5
+134,2024-02-20,2024-02,Enugu,12,Product_12,"Home Appliance",1,65740.00,65740.00,Cancelled,NULL,NULL
+50,2024-04-08,2024-04,Kano,19,Product_19,"Home Appliance",3,66850.00,200550.00,Delivered,2024-04-15,7
+51,2024-01-01,2024-01,Enugu,11,Product_11,"Home Appliance",4,71850.00,287400.00,Delivered,2024-01-05,4
+52,2024-12-11,2024-12,Enugu,6,Product_6,"Home Appliance",1,49730.00,49730.00,Delivered,2024-12-19,8
+135,2024-04-07,2024-04,"Port Harcourt",3,Product_3,"Home Appliance",2,99840.00,199680.00,Cancelled,NULL,NULL
+53,2024-12-05,2024-12,Abuja,22,Product_22,Kitchen,3,41450.00,124350.00,Delivered,2024-12-11,6
+136,2024-11-01,2024-11,Ibadan,8,Product_8,"Home Appliance",2,120180.00,240360.00,Cancelled,NULL,NULL
+54,2024-04-11,2024-04,Lagos,15,Product_15,"Home Appliance",4,134060.00,536240.00,Delivered,2024-04-12,1
+137,2024-04-15,2024-04,Abuja,11,Product_11,"Home Appliance",2,120410.00,240820.00,Delivered,2024-04-24,9
+55,2024-10-21,2024-10,Enugu,23,Product_23,"Home Appliance",1,134970.00,134970.00,Delivered,2024-10-28,7
+138,2024-11-01,2024-11,Abuja,4,Product_4,"Home Appliance",1,28450.00,28450.00,Delivered,2024-11-04,3
+17,2024-07-02,2024-07,Lagos,5,Product_5,Electronics,4,83650.00,334600.00,Delivered,2024-07-06,4
+56,2024-02-24,2024-02,Kano,15,Product_15,"Home Appliance",1,88040.00,88040.00,Delivered,2024-02-28,4
+140,2024-02-02,2024-02,Kano,8,Product_8,"Home Appliance",5,16070.00,80350.00,Delivered,2024-02-08,6
+57,2024-03-03,2024-03,Kano,11,Product_11,"Home Appliance",4,95770.00,383080.00,Delivered,2024-03-11,8
+58,2024-09-15,2024-09,"Port Harcourt",15,Product_15,"Home Appliance",3,115250.00,345750.00,Delivered,2024-09-24,9
+59,2024-11-22,2024-11,"Port Harcourt",3,Product_3,"Home Appliance",3,42830.00,128490.00,Delivered,2024-12-01,9
+141,2024-12-03,2024-12,"Port Harcourt",13,Product_13,Kitchen,4,106050.00,424200.00,Delivered,2024-12-11,8
+60,2024-06-20,2024-06,"Port Harcourt",23,Product_23,"Home Appliance",2,108900.00,217800.00,Delivered,2024-06-29,9
+142,2024-09-08,2024-09,Kano,5,Product_5,Electronics,1,27670.00,27670.00,Delivered,2024-09-16,8
+143,2024-11-15,2024-11,Kano,17,Product_17,Electronics,3,73520.00,220560.00,Delivered,2024-11-24,9
+144,2024-11-05,2024-11,Kano,24,Product_24,Kitchen,2,70210.00,140420.00,Delivered,2024-11-07,2
+61,2024-02-02,2024-02,Abuja,14,Product_14,Kitchen,4,136680.00,546720.00,Delivered,2024-02-08,6
+145,2024-04-26,2024-04,Ibadan,14,Product_14,Kitchen,3,103120.00,309360.00,Delivered,2024-05-04,8
+49,2024-10-26,2024-10,Kano,13,Product_13,Kitchen,4,10830.00,43320.00,Cancelled,NULL,NULL
+146,2024-07-10,2024-07,"Port Harcourt",3,Product_3,"Home Appliance",1,126450.00,126450.00,Cancelled,NULL,NULL
+147,2024-02-17,2024-02,Kano,18,Product_18,"Home Appliance",5,56150.00,280750.00,Delivered,2024-02-23,6
+63,2024-06-29,2024-06,"Port Harcourt",18,Product_18,"Home Appliance",5,121980.00,609900.00,Delivered,2024-07-06,7
+148,2024-03-03,2024-03,Ibadan,20,Product_20,Electronics,3,59230.00,177690.00,Delivered,2024-03-10,7
+64,2024-04-22,2024-04,Ibadan,22,Product_22,Kitchen,4,111390.00,445560.00,Delivered,2024-04-27,5
+149,2024-10-22,2024-10,Lagos,12,Product_12,"Home Appliance",5,61460.00,307300.00,Delivered,2024-10-25,3
+65,2024-08-27,2024-08,Kano,1,Product_1,Electronics,4,92860.00,371440.00,Cancelled,NULL,NULL
+150,2024-05-22,2024-05,Kano,20,Product_20,Electronics,5,13680.00,68400.00,Delivered,2024-05-29,7
+66,2024-12-05,2024-12,Lagos,9,Product_9,"Home Appliance",4,55830.00,223320.00,Delivered,2024-12-12,7
+151,2024-12-02,2024-12,Ibadan,11,Product_11,"Home Appliance",3,10850.00,32550.00,Delivered,NULL,NULL
+67,2024-08-20,2024-08,"Port Harcourt",9,Product_9,"Home Appliance",1,75840.00,75840.00,Delivered,2024-08-27,7
+152,2024-03-14,2024-03,Lagos,3,Product_3,"Home Appliance",5,40120.00,200600.00,Delivered,2024-03-21,7
+153,2024-08-02,2024-08,Kano,20,Product_20,Electronics,1,133670.00,133670.00,Delivered,2024-08-05,3
+68,2024-10-03,2024-10,Enugu,2,Product_2,"Home Appliance",1,142950.00,142950.00,Delivered,2024-10-09,6
+69,2024-04-12,2024-04,Enugu,4,Product_4,"Home Appliance",5,142690.00,713450.00,Delivered,2024-04-22,10
+154,2024-03-20,2024-03,"Port Harcourt",22,Product_22,Kitchen,4,77990.00,311960.00,Delivered,2024-03-30,10
+155,2024-08-14,2024-08,"Port Harcourt",4,Product_4,"Home Appliance",3,104950.00,314850.00,Delivered,2024-08-18,4
+156,2024-10-30,2024-10,Kano,2,Product_2,"Home Appliance",1,38620.00,38620.00,Delivered,2024-11-04,5
+157,2024-04-18,2024-04,"Port Harcourt",24,Product_24,Kitchen,4,34600.00,138400.00,Delivered,2024-04-23,5
+70,2024-08-26,2024-08,Enugu,23,Product_23,"Home Appliance",1,118890.00,118890.00,Delivered,2024-09-01,6
+71,2024-03-24,2024-03,Lagos,10,Product_10,Kitchen,5,104830.00,524150.00,Cancelled,NULL,NULL
+158,2024-07-13,2024-07,Ibadan,3,Product_3,"Home Appliance",4,130650.00,522600.00,Delivered,2024-07-17,4
+72,2024-07-11,2024-07,Enugu,8,Product_8,"Home Appliance",1,107610.00,107610.00,Delivered,2024-07-15,4
+73,2024-06-03,2024-06,Lagos,19,Product_19,"Home Appliance",1,58610.00,58610.00,Cancelled,NULL,NULL
+159,2024-01-22,2024-01,Kano,14,Product_14,Kitchen,5,66620.00,333100.00,Delivered,2024-01-30,8
+160,2024-11-23,2024-11,Abuja,20,Product_20,Electronics,4,126480.00,505920.00,Delivered,2024-11-25,2
+74,2024-08-07,2024-08,"Port Harcourt",16,Product_16,Electronics,1,70690.00,70690.00,Delivered,2024-08-09,2
+75,2024-07-04,2024-07,Enugu,17,Product_17,Electronics,3,96230.00,288690.00,Delivered,2024-07-12,8
+76,2024-10-02,2024-10,Ibadan,11,Product_11,"Home Appliance",2,126300.00,252600.00,Delivered,2024-10-10,8
+161,2024-07-04,2024-07,Kano,3,Product_3,"Home Appliance",4,131870.00,527480.00,Delivered,2024-07-06,2
+162,2024-06-22,2024-06,Kano,17,Product_17,Electronics,2,136830.00,273660.00,Delivered,2024-06-25,3
+77,2024-02-14,2024-02,Kano,22,Product_22,Kitchen,4,57100.00,228400.00,Delivered,2024-02-22,8
+163,2024-06-27,2024-06,Abuja,6,Product_6,"Home Appliance",5,31400.00,157000.00,Delivered,2024-06-30,3
+164,2024-12-01,2024-12,Kano,15,Product_15,"Home Appliance",5,100020.00,500100.00,Delivered,2024-12-09,8
+78,2024-09-10,2024-09,Abuja,12,Product_12,"Home Appliance",3,57650.00,172950.00,Cancelled,NULL,NULL
+165,2024-11-15,2024-11,"Port Harcourt",21,Product_21,"Home Appliance",3,121490.00,364470.00,Delivered,2024-11-21,6
+79,2024-11-01,2024-11,Abuja,3,Product_3,"Home Appliance",2,110810.00,221620.00,Delivered,2024-11-06,5
+80,2024-09-07,2024-09,"Port Harcourt",15,Product_15,"Home Appliance",1,23030.00,23030.00,Delivered,2024-09-11,4
+166,2024-10-29,2024-10,Lagos,2,Product_2,"Home Appliance",3,126440.00,379320.00,Delivered,2024-11-07,9
+81,2024-04-23,2024-04,"Port Harcourt",18,Product_18,"Home Appliance",5,58130.00,290650.00,Delivered,2024-04-27,4
+167,2024-02-09,2024-02,"Port Harcourt",19,Product_19,"Home Appliance",5,143590.00,717950.00,Delivered,2024-02-11,2
+82,2024-10-08,2024-10,Lagos,24,Product_24,Kitchen,2,54180.00,108360.00,Delivered,2024-10-16,8
+83,2024-10-01,2024-10,Abuja,7,Product_7,Kitchen,4,48710.00,194840.00,Cancelled,NULL,NULL
+168,2024-01-22,2024-01,"Port Harcourt",17,Product_17,Electronics,2,144080.00,288160.00,Delivered,2024-02-01,10
+169,2024-08-18,2024-08,Enugu,6,Product_6,"Home Appliance",1,44680.00,44680.00,Delivered,2024-08-24,6
+84,2024-10-28,2024-10,Ibadan,4,Product_4,"Home Appliance",2,51470.00,102940.00,Cancelled,NULL,NULL
+85,2024-07-03,2024-07,Lagos,2,Product_2,"Home Appliance",5,50900.00,254500.00,Delivered,2024-07-04,1
+19,2024-03-05,2024-03,"Port Harcourt",16,Product_16,Electronics,4,57700.00,230800.00,Delivered,2024-03-13,8
+87,2024-01-27,2024-01,"Port Harcourt",3,Product_3,"Home Appliance",5,98120.00,490600.00,Delivered,2024-02-04,8
+88,2024-01-28,2024-01,Abuja,4,Product_4,"Home Appliance",5,117020.00,585100.00,Delivered,2024-02-07,10
+89,2024-11-06,2024-11,"Port Harcourt",15,Product_15,"Home Appliance",3,130420.00,391260.00,Delivered,2024-11-16,10
+90,2024-08-07,2024-08,Lagos,7,Product_7,Kitchen,2,47050.00,94100.00,Delivered,2024-08-17,10
+91,2024-02-11,2024-02,"Port Harcourt",15,Product_15,"Home Appliance",5,75790.00,378950.00,Delivered,2024-02-14,3
+92,2024-01-17,2024-01,Enugu,8,Product_8,"Home Appliance",3,120300.00,360900.00,Delivered,2024-01-22,5
+93,2024-11-16,2024-11,Enugu,5,Product_5,Electronics,3,125730.00,377190.00,Delivered,2024-11-20,4
+94,2024-02-06,2024-02,Ibadan,15,Product_15,"Home Appliance",1,75620.00,75620.00,Delivered,2024-02-11,5
+95,2024-06-04,2024-06,Lagos,20,Product_20,Electronics,1,134520.00,134520.00,Delivered,2024-06-09,5
+317,2024-03-18,2024-03,Lagos,4,Product_4,"Home Appliance",2,58770.00,117540.00,Delivered,2024-03-19,1
+170,2024-08-12,2024-08,Kano,6,Product_6,"Home Appliance",3,62200.00,186600.00,Cancelled,NULL,NULL
+171,2024-05-24,2024-05,Enugu,21,Product_21,"Home Appliance",3,19230.00,57690.00,Delivered,2024-05-30,6
+172,2024-02-18,2024-02,Enugu,20,Product_20,Electronics,2,56670.00,113340.00,Delivered,2024-02-25,7
+173,2024-10-25,2024-10,Enugu,13,Product_13,Kitchen,2,93310.00,186620.00,Delivered,2024-10-31,6
+174,2024-02-13,2024-02,Abuja,22,Product_22,Kitchen,5,23080.00,115400.00,Delivered,2024-02-20,7
+175,2024-12-09,2024-12,Abuja,11,Product_11,"Home Appliance",4,36880.00,147520.00,Delivered,NULL,NULL
+176,2024-03-11,2024-03,Kano,24,Product_24,Kitchen,5,15280.00,76400.00,Delivered,2024-03-16,5
+177,2024-06-21,2024-06,Kano,13,Product_13,Kitchen,2,32710.00,65420.00,Cancelled,NULL,NULL
+178,2024-12-20,2024-12,Ibadan,22,Product_22,Kitchen,2,145740.00,291480.00,Delivered,2024-12-23,3
+179,2024-11-08,2024-11,"Port Harcourt",7,Product_7,Kitchen,3,104960.00,314880.00,Delivered,2024-11-16,8
+180,2024-10-19,2024-10,Ibadan,13,Product_13,Kitchen,5,83840.00,419200.00,Cancelled,NULL,NULL
+181,2024-03-23,2024-03,Enugu,16,Product_16,Electronics,3,87640.00,262920.00,Delivered,2024-04-02,10
+182,2024-02-22,2024-02,Abuja,9,Product_9,"Home Appliance",4,136740.00,546960.00,Delivered,2024-03-02,9
+183,2024-03-16,2024-03,"Port Harcourt",12,Product_12,"Home Appliance",1,68090.00,68090.00,Delivered,2024-03-18,2
+184,2024-07-21,2024-07,Abuja,1,Product_1,Electronics,3,140320.00,420960.00,Delivered,2024-07-25,4
+185,2024-11-28,2024-11,"Port Harcourt",23,Product_23,"Home Appliance",2,116240.00,232480.00,Delivered,2024-12-01,3
+14,2024-08-28,2024-08,Abuja,18,Product_18,"Home Appliance",5,83890.00,419450.00,Delivered,2024-08-29,1
+187,2024-02-26,2024-02,"Port Harcourt",21,Product_21,"Home Appliance",5,74000.00,370000.00,Delivered,2024-03-01,4
+33,2024-02-26,2024-02,Kano,8,Product_8,"Home Appliance",2,50780.00,101560.00,Delivered,2024-03-05,8
+189,2024-01-01,2024-01,Enugu,3,Product_3,"Home Appliance",5,146450.00,732250.00,Delivered,2024-01-05,4
+190,2024-02-04,2024-02,Kano,18,Product_18,"Home Appliance",1,64660.00,64660.00,Cancelled,NULL,NULL
+191,2024-08-28,2024-08,Lagos,12,Product_12,"Home Appliance",1,58270.00,58270.00,Delivered,2024-09-04,7
+192,2024-12-02,2024-12,Lagos,12,Product_12,"Home Appliance",5,57400.00,287000.00,Delivered,2024-12-12,10
+193,2024-11-25,2024-11,Abuja,5,Product_5,Electronics,1,110250.00,110250.00,Delivered,2024-12-03,8
+194,2024-08-22,2024-08,Lagos,11,Product_11,"Home Appliance",3,82150.00,246450.00,Delivered,2024-08-26,4
+195,2024-10-05,2024-10,Ibadan,2,Product_2,"Home Appliance",3,48250.00,144750.00,Delivered,2024-10-06,1
+196,2024-07-07,2024-07,"Port Harcourt",11,Product_11,"Home Appliance",2,79470.00,158940.00,Delivered,2024-07-14,7
+197,2024-09-11,2024-09,"Port Harcourt",3,Product_3,"Home Appliance",4,94340.00,377360.00,Delivered,2024-09-20,9
+198,2024-04-02,2024-04,Ibadan,10,Product_10,Kitchen,4,94370.00,377480.00,Delivered,2024-04-08,6
+199,2024-08-06,2024-08,Ibadan,20,Product_20,Electronics,4,48440.00,193760.00,Delivered,2024-08-14,8
+200,2024-01-30,2024-01,Enugu,6,Product_6,"Home Appliance",1,29990.00,29990.00,Delivered,2024-02-06,7
+201,2024-11-07,2024-11,Enugu,12,Product_12,"Home Appliance",3,63600.00,190800.00,Delivered,2024-11-15,8
+202,2024-10-17,2024-10,Ibadan,15,Product_15,"Home Appliance",1,90350.00,90350.00,Delivered,2024-10-20,3
+203,2024-09-28,2024-09,Lagos,1,Product_1,Electronics,2,79870.00,159740.00,Delivered,2024-10-04,6
+204,2024-07-17,2024-07,Ibadan,23,Product_23,"Home Appliance",4,40040.00,160160.00,Cancelled,NULL,NULL
+205,2024-11-09,2024-11,Lagos,15,Product_15,"Home Appliance",2,135820.00,271640.00,Delivered,2024-11-17,8
+206,2024-08-15,2024-08,Ibadan,22,Product_22,Kitchen,3,109340.00,328020.00,Cancelled,NULL,NULL
+207,2024-10-08,2024-10,Enugu,21,Product_21,"Home Appliance",2,121120.00,242240.00,Delivered,2024-10-13,5
+208,2024-09-17,2024-09,"Port Harcourt",1,Product_1,Electronics,3,87560.00,262680.00,Delivered,2024-09-21,4
+209,2024-07-07,2024-07,Lagos,10,Product_10,Kitchen,4,149940.00,599760.00,Delivered,2024-07-16,9
+210,2024-09-02,2024-09,Ibadan,21,Product_21,"Home Appliance",1,73000.00,73000.00,Delivered,2024-09-09,7
+211,2024-12-14,2024-12,Enugu,19,Product_19,"Home Appliance",2,117490.00,234980.00,Delivered,2024-12-17,3
+212,2024-03-07,2024-03,Ibadan,6,Product_6,"Home Appliance",2,55170.00,110340.00,Delivered,2024-03-08,1
+213,2024-12-29,2024-12,Ibadan,7,Product_7,Kitchen,5,48420.00,242100.00,Delivered,2025-01-07,9
+214,2024-11-16,2024-11,Kano,19,Product_19,"Home Appliance",2,33970.00,67940.00,Delivered,2024-11-25,9
+215,2024-11-15,2024-11,Lagos,1,Product_1,Electronics,1,16360.00,16360.00,Delivered,2024-11-25,10
+216,2024-11-24,2024-11,"Port Harcourt",20,Product_20,Electronics,1,79730.00,79730.00,Delivered,2024-11-29,5
+217,2024-11-17,2024-11,Enugu,13,Product_13,Kitchen,3,73500.00,220500.00,Delivered,2024-11-22,5
+218,2024-12-18,2024-12,Ibadan,20,Product_20,Electronics,2,53760.00,107520.00,Delivered,2024-12-26,8
+219,2024-06-12,2024-06,Ibadan,17,Product_17,Electronics,5,24870.00,124350.00,Delivered,2024-06-18,6
+220,2024-05-03,2024-05,Lagos,10,Product_10,Kitchen,4,130980.00,523920.00,Delivered,2024-05-08,5
+221,2024-08-02,2024-08,Enugu,11,Product_11,"Home Appliance",2,116840.00,233680.00,Delivered,2024-08-05,3
+222,2024-09-12,2024-09,Ibadan,16,Product_16,Electronics,1,22610.00,22610.00,Cancelled,NULL,NULL
+223,2024-07-20,2024-07,Lagos,10,Product_10,Kitchen,4,93650.00,374600.00,Delivered,2024-07-24,4
+224,2024-11-30,2024-11,"Port Harcourt",5,Product_5,Electronics,3,111850.00,335550.00,Delivered,2024-12-05,5
+225,2024-07-25,2024-07,Ibadan,18,Product_18,"Home Appliance",3,20290.00,60870.00,Delivered,2024-08-01,7
+226,2024-09-15,2024-09,Enugu,20,Product_20,Electronics,1,28010.00,28010.00,Delivered,2024-09-24,9
+227,2024-02-19,2024-02,Abuja,7,Product_7,Kitchen,5,81280.00,406400.00,Delivered,2024-02-25,6
+228,2024-09-13,2024-09,"Port Harcourt",17,Product_17,Electronics,4,30850.00,123400.00,Delivered,2024-09-14,1
+229,2024-09-20,2024-09,Kano,24,Product_24,Kitchen,3,93120.00,279360.00,Delivered,2024-09-30,10
+230,2024-09-16,2024-09,"Port Harcourt",1,Product_1,Electronics,3,56370.00,169110.00,Delivered,2024-09-25,9
+231,2024-02-26,2024-02,Enugu,23,Product_23,"Home Appliance",1,93570.00,93570.00,Cancelled,NULL,NULL
+232,2024-05-15,2024-05,Kano,19,Product_19,"Home Appliance",2,111000.00,222000.00,Cancelled,NULL,NULL
+233,2024-10-25,2024-10,"Port Harcourt",5,Product_5,Electronics,2,14420.00,28840.00,Delivered,2024-11-03,9
+234,2024-12-24,2024-12,"Port Harcourt",23,Product_23,"Home Appliance",2,67450.00,134900.00,Delivered,2024-12-25,1
+235,2024-11-09,2024-11,Enugu,24,Product_24,Kitchen,1,108810.00,108810.00,Cancelled,NULL,NULL
+236,2024-09-22,2024-09,"Port Harcourt",11,Product_11,"Home Appliance",2,74350.00,148700.00,Delivered,2024-09-28,6
+237,2024-09-29,2024-09,Enugu,21,Product_21,"Home Appliance",3,95410.00,286230.00,Delivered,2024-10-05,6
+238,2024-04-08,2024-04,Ibadan,8,Product_8,"Home Appliance",3,117960.00,353880.00,Cancelled,NULL,NULL
+239,2024-12-26,2024-12,Enugu,9,Product_9,"Home Appliance",3,27060.00,81180.00,Delivered,2025-01-03,8
+240,2024-12-12,2024-12,Abuja,10,Product_10,Kitchen,1,50270.00,50270.00,Delivered,2024-12-19,7
+241,2024-02-10,2024-02,Abuja,7,Product_7,Kitchen,5,47960.00,239800.00,Delivered,2024-02-18,8
+242,2024-10-14,2024-10,Abuja,8,Product_8,"Home Appliance",1,103780.00,103780.00,Delivered,2024-10-17,3
+243,2024-09-28,2024-09,Enugu,16,Product_16,Electronics,1,105370.00,105370.00,Delivered,2024-10-02,4
+244,2024-03-11,2024-03,Enugu,16,Product_16,Electronics,4,101080.00,404320.00,Delivered,2024-03-20,9
+245,2024-05-27,2024-05,Kano,8,Product_8,"Home Appliance",5,113420.00,567100.00,Delivered,2024-05-28,1
+246,2024-01-20,2024-01,Abuja,2,Product_2,"Home Appliance",4,120310.00,481240.00,Cancelled,NULL,NULL
+247,2024-04-05,2024-04,Ibadan,2,Product_2,"Home Appliance",1,51770.00,51770.00,Cancelled,NULL,NULL
+96,2024-06-14,2024-06,Kano,19,Product_19,"Home Appliance",1,149940.00,149940.00,Delivered,2024-06-15,1
+97,2024-12-10,2024-12,"Port Harcourt",17,Product_17,Electronics,4,138250.00,553000.00,Delivered,2024-12-20,10
+98,2024-04-02,2024-04,"Port Harcourt",3,Product_3,"Home Appliance",4,58710.00,234840.00,Cancelled,NULL,NULL
+99,2024-06-19,2024-06,Enugu,16,Product_16,Electronics,3,102760.00,308280.00,Delivered,2024-06-21,2
+100,2024-07-24,2024-07,Ibadan,11,Product_11,"Home Appliance",1,145830.00,145830.00,Delivered,2024-08-02,9
+101,2024-07-25,2024-07,Lagos,22,Product_22,Kitchen,5,74680.00,373400.00,Cancelled,NULL,NULL
+102,2024-01-28,2024-01,"Port Harcourt",2,Product_2,"Home Appliance",2,47390.00,94780.00,Delivered,2024-02-03,6
+103,2024-03-08,2024-03,Enugu,16,Product_16,Electronics,1,14040.00,14040.00,Cancelled,NULL,NULL
+104,2024-11-18,2024-11,Lagos,18,Product_18,"Home Appliance",4,23050.00,92200.00,Delivered,2024-11-22,4
+105,2024-02-28,2024-02,Enugu,10,Product_10,Kitchen,5,108760.00,543800.00,Delivered,2024-03-01,2
+248,2024-11-04,2024-11,Kano,17,Product_17,Electronics,4,134500.00,538000.00,Delivered,2024-11-10,6
+249,2024-03-09,2024-03,Abuja,4,Product_4,"Home Appliance",3,32750.00,98250.00,Cancelled,NULL,NULL
+250,2024-08-22,2024-08,Ibadan,19,Product_19,"Home Appliance",2,34570.00,69140.00,Delivered,NULL,NULL
+251,2024-11-23,2024-11,Kano,11,Product_11,"Home Appliance",1,66120.00,66120.00,Cancelled,NULL,NULL
+252,2024-02-18,2024-02,Lagos,9,Product_9,"Home Appliance",4,42970.00,171880.00,Delivered,2024-02-21,3
+253,2024-05-16,2024-05,Enugu,19,Product_19,"Home Appliance",1,46620.00,46620.00,Cancelled,NULL,NULL
+254,2024-07-03,2024-07,Abuja,13,Product_13,Kitchen,5,139230.00,696150.00,Delivered,2024-07-04,1
+255,2024-12-26,2024-12,Ibadan,20,Product_20,Electronics,2,40680.00,81360.00,Delivered,2024-12-28,2
+256,2024-03-09,2024-03,"Port Harcourt",23,Product_23,"Home Appliance",5,137790.00,688950.00,Delivered,2024-03-17,8
+257,2024-10-02,2024-10,Kano,3,Product_3,"Home Appliance",5,72540.00,362700.00,Delivered,2024-10-06,4
+258,2024-12-26,2024-12,Kano,7,Product_7,Kitchen,5,85130.00,425650.00,Delivered,2025-01-05,10
+259,2024-03-25,2024-03,Enugu,19,Product_19,"Home Appliance",4,22730.00,90920.00,Delivered,2024-04-03,9
+260,2024-09-18,2024-09,"Port Harcourt",19,Product_19,"Home Appliance",1,88230.00,88230.00,Delivered,2024-09-19,1
+261,2024-12-10,2024-12,Enugu,7,Product_7,Kitchen,5,20220.00,101100.00,Delivered,2024-12-11,1
+262,2024-08-04,2024-08,Lagos,16,Product_16,Electronics,1,50190.00,50190.00,Delivered,2024-08-06,2
+263,2024-04-02,2024-04,"Port Harcourt",13,Product_13,Kitchen,4,21230.00,84920.00,Delivered,2024-04-09,7
+264,2024-12-04,2024-12,Ibadan,4,Product_4,"Home Appliance",2,149000.00,298000.00,Cancelled,NULL,NULL
+265,2024-07-20,2024-07,Ibadan,15,Product_15,"Home Appliance",5,69380.00,346900.00,Delivered,2024-07-24,4
+266,2024-07-13,2024-07,Abuja,24,Product_24,Kitchen,1,14510.00,14510.00,Delivered,2024-07-17,4
+267,2024-12-04,2024-12,Kano,2,Product_2,"Home Appliance",4,93690.00,374760.00,Delivered,2024-12-05,1
+268,2024-12-26,2024-12,Lagos,13,Product_13,Kitchen,4,42810.00,171240.00,Cancelled,NULL,NULL
+269,2024-04-21,2024-04,Abuja,24,Product_24,Kitchen,5,54650.00,273250.00,Delivered,2024-04-22,1
+270,2024-11-02,2024-11,Enugu,17,Product_17,Electronics,2,67900.00,135800.00,Delivered,2024-11-08,6
+271,2024-05-20,2024-05,Enugu,22,Product_22,Kitchen,4,87820.00,351280.00,Delivered,2024-05-30,10
+272,2024-01-25,2024-01,Enugu,13,Product_13,Kitchen,5,54620.00,273100.00,Cancelled,NULL,NULL
+318,2024-06-24,2024-06,Lagos,15,Product_15,"Home Appliance",4,54650.00,218600.00,Delivered,2024-06-28,4
+273,2024-08-01,2024-08,"Port Harcourt",8,Product_8,"Home Appliance",2,52100.00,104200.00,Delivered,2024-08-06,5
+274,2024-12-28,2024-12,"Port Harcourt",18,Product_18,"Home Appliance",5,28770.00,143850.00,Delivered,2025-01-05,8
+275,2024-05-04,2024-05,Ibadan,3,Product_3,"Home Appliance",5,111440.00,557200.00,Delivered,2024-05-10,6
+276,2024-04-07,2024-04,Lagos,7,Product_7,Kitchen,5,111400.00,557000.00,Delivered,2024-04-14,7
+277,2024-10-13,2024-10,Lagos,7,Product_7,Kitchen,2,144690.00,289380.00,Delivered,2024-10-17,4
+278,2024-03-01,2024-03,Enugu,7,Product_7,Kitchen,4,138120.00,552480.00,Delivered,2024-03-09,8
+279,2024-10-09,2024-10,Ibadan,10,Product_10,Kitchen,3,60350.00,181050.00,Delivered,2024-10-14,5
+280,2024-09-11,2024-09,Abuja,12,Product_12,"Home Appliance",3,67950.00,203850.00,Delivered,2024-09-19,8
+281,2024-10-15,2024-10,Lagos,9,Product_9,"Home Appliance",5,140870.00,704350.00,Cancelled,NULL,NULL
+282,2024-10-23,2024-10,"Port Harcourt",19,Product_19,"Home Appliance",2,79900.00,159800.00,Delivered,2024-10-28,5
+283,2024-12-01,2024-12,"Port Harcourt",24,Product_24,Kitchen,4,74520.00,298080.00,Cancelled,NULL,NULL
+284,2024-06-29,2024-06,Kano,21,Product_21,"Home Appliance",1,83350.00,83350.00,Delivered,2024-07-08,9
+285,2024-02-08,2024-02,Lagos,14,Product_14,Kitchen,2,127960.00,255920.00,Cancelled,NULL,NULL
+286,2024-04-28,2024-04,Ibadan,2,Product_2,"Home Appliance",5,99280.00,496400.00,Delivered,NULL,NULL
+287,2024-11-11,2024-11,Lagos,1,Product_1,Electronics,5,87230.00,436150.00,Cancelled,NULL,NULL
+288,2024-01-07,2024-01,Kano,23,Product_23,"Home Appliance",4,122860.00,491440.00,Delivered,2024-01-12,5
+289,2024-04-01,2024-04,Kano,17,Product_17,Electronics,3,124130.00,372390.00,Delivered,2024-04-03,2
+290,2024-05-16,2024-05,Kano,8,Product_8,"Home Appliance",2,52000.00,104000.00,Delivered,2024-05-18,2
+319,2024-06-02,2024-06,Lagos,22,Product_22,Kitchen,2,140190.00,280380.00,Delivered,NULL,NULL
+291,2024-02-11,2024-02,Kano,16,Product_16,Electronics,1,99140.00,99140.00,Delivered,2024-02-12,1
+292,2024-12-25,2024-12,Ibadan,19,Product_19,"Home Appliance",1,135270.00,135270.00,Delivered,2025-01-02,8
+293,2024-01-22,2024-01,Lagos,22,Product_22,Kitchen,3,135900.00,407700.00,Delivered,2024-02-01,10
+294,2024-10-15,2024-10,Abuja,19,Product_19,"Home Appliance",2,115320.00,230640.00,Delivered,2024-10-18,3
+320,2024-05-04,2024-05,"Port Harcourt",8,Product_8,"Home Appliance",4,98170.00,392680.00,Delivered,2024-05-13,9
+295,2024-12-30,2024-12,Kano,13,Product_13,Kitchen,5,56440.00,282200.00,Delivered,2025-01-01,2
+296,2024-03-12,2024-03,Lagos,4,Product_4,"Home Appliance",4,42500.00,170000.00,Delivered,2024-03-14,2
+297,2024-02-08,2024-02,Ibadan,1,Product_1,Electronics,3,119700.00,359100.00,Delivered,2024-02-18,10
+298,2024-08-18,2024-08,Abuja,22,Product_22,Kitchen,5,102490.00,512450.00,Delivered,2024-08-24,6
+299,2024-02-13,2024-02,Lagos,9,Product_9,"Home Appliance",2,63200.00,126400.00,Delivered,2024-02-18,5
+300,2024-11-20,2024-11,Lagos,10,Product_10,Kitchen,4,60390.00,241560.00,Delivered,2024-11-27,7
+301,2024-05-18,2024-05,Kano,17,Product_17,Electronics,4,24460.00,97840.00,Delivered,2024-05-20,2
+302,2024-02-15,2024-02,"Port Harcourt",1,Product_1,Electronics,3,67930.00,203790.00,Delivered,2024-02-17,2
+303,2024-02-13,2024-02,Kano,17,Product_17,Electronics,2,105940.00,211880.00,Delivered,2024-02-22,9
+304,2024-03-27,2024-03,Abuja,14,Product_14,Kitchen,3,68950.00,206850.00,Delivered,2024-04-01,5
+305,2024-09-04,2024-09,Enugu,16,Product_16,Electronics,5,96330.00,481650.00,Delivered,2024-09-10,6
+306,2024-08-22,2024-08,Kano,13,Product_13,Kitchen,3,71630.00,214890.00,Delivered,NULL,NULL
+307,2024-08-08,2024-08,Enugu,7,Product_7,Kitchen,4,53990.00,215960.00,Delivered,2024-08-18,10
+308,2024-07-22,2024-07,Enugu,21,Product_21,"Home Appliance",4,145490.00,581960.00,Cancelled,NULL,NULL
+309,2024-05-04,2024-05,Lagos,19,Product_19,"Home Appliance",2,92910.00,185820.00,Delivered,2024-05-09,5
+310,2024-10-06,2024-10,Enugu,7,Product_7,Kitchen,4,121680.00,486720.00,Delivered,NULL,NULL
+311,2024-12-20,2024-12,Ibadan,8,Product_8,"Home Appliance",3,102210.00,306630.00,Delivered,2024-12-27,7
+321,2024-04-05,2024-04,Abuja,15,Product_15,"Home Appliance",5,70140.00,350700.00,Delivered,2024-04-12,7
+312,2024-08-04,2024-08,Kano,13,Product_13,Kitchen,5,80930.00,404650.00,Delivered,2024-08-06,2
+313,2024-12-20,2024-12,Kano,20,Product_20,Electronics,1,25310.00,25310.00,Delivered,2024-12-21,1
+314,2024-05-07,2024-05,Kano,21,Product_21,"Home Appliance",4,145350.00,581400.00,Delivered,2024-05-13,6
+315,2024-06-18,2024-06,Lagos,4,Product_4,"Home Appliance",3,41080.00,123240.00,Cancelled,NULL,NULL
+316,2024-09-22,2024-09,"Port Harcourt",22,Product_22,Kitchen,5,106660.00,533300.00,Delivered,2024-10-02,10
+322,2024-01-03,2024-01,Lagos,19,Product_19,"Home Appliance",1,121930.00,121930.00,Delivered,2024-01-07,4
+323,2024-10-01,2024-10,Enugu,16,Product_16,Electronics,5,145230.00,726150.00,Delivered,2024-10-07,6
+324,2024-06-09,2024-06,Ibadan,15,Product_15,"Home Appliance",5,34150.00,170750.00,Delivered,2024-06-19,10
+325,2024-12-10,2024-12,Enugu,5,Product_5,Electronics,3,26500.00,79500.00,Delivered,2024-12-15,5
+326,2024-06-05,2024-06,"Port Harcourt",20,Product_20,Electronics,2,90470.00,180940.00,Delivered,2024-06-11,6
+327,2024-08-04,2024-08,Abuja,18,Product_18,"Home Appliance",2,78550.00,157100.00,Delivered,2024-08-13,9
+328,2024-03-12,2024-03,Lagos,16,Product_16,Electronics,2,37320.00,74640.00,Delivered,2024-03-20,8
+329,2024-07-15,2024-07,"Port Harcourt",14,Product_14,Kitchen,4,68190.00,272760.00,Cancelled,NULL,NULL
+330,2024-08-15,2024-08,Abuja,10,Product_10,Kitchen,1,48480.00,48480.00,Delivered,2024-08-17,2
+331,2024-10-02,2024-10,"Port Harcourt",18,Product_18,"Home Appliance",5,25850.00,129250.00,Delivered,2024-10-10,8
+332,2024-02-28,2024-02,Lagos,24,Product_24,Kitchen,4,86490.00,345960.00,Delivered,2024-03-08,9
+333,2024-08-05,2024-08,"Port Harcourt",9,Product_9,"Home Appliance",3,130710.00,392130.00,Delivered,2024-08-09,4
+334,2024-02-14,2024-02,Enugu,19,Product_19,"Home Appliance",3,130550.00,391650.00,Delivered,2024-02-16,2
+335,2024-11-08,2024-11,Abuja,2,Product_2,"Home Appliance",5,59110.00,295550.00,Delivered,2024-11-11,3
+336,2024-05-23,2024-05,Ibadan,19,Product_19,"Home Appliance",3,143340.00,430020.00,Delivered,2024-05-26,3
+337,2024-09-20,2024-09,Lagos,5,Product_5,Electronics,4,138630.00,554520.00,Cancelled,NULL,NULL
+338,2024-05-21,2024-05,Abuja,8,Product_8,"Home Appliance",2,109600.00,219200.00,Cancelled,NULL,NULL
+339,2024-05-06,2024-05,Ibadan,21,Product_21,"Home Appliance",4,62520.00,250080.00,Delivered,2024-05-13,7
+340,2024-02-08,2024-02,Enugu,12,Product_12,"Home Appliance",4,143040.00,572160.00,Delivered,2024-02-10,2
+341,2024-06-16,2024-06,Enugu,23,Product_23,"Home Appliance",3,129010.00,387030.00,Delivered,2024-06-18,2
+342,2024-09-30,2024-09,Ibadan,10,Product_10,Kitchen,3,86620.00,259860.00,Delivered,2024-10-07,7
+343,2024-03-07,2024-03,Lagos,2,Product_2,"Home Appliance",1,97670.00,97670.00,Delivered,2024-03-15,8
+28,2024-08-23,2024-08,Abuja,23,Product_23,"Home Appliance",2,133500.00,267000.00,Delivered,2024-08-26,3
+345,2024-06-03,2024-06,Lagos,12,Product_12,"Home Appliance",2,17250.00,34500.00,Delivered,2024-06-08,5
+346,2024-11-16,2024-11,Lagos,1,Product_1,Electronics,2,76750.00,153500.00,Delivered,2024-11-20,4
+45,2024-03-08,2024-03,Ibadan,4,Product_4,"Home Appliance",4,107160.00,428640.00,Delivered,2024-03-17,9
+348,2024-09-01,2024-09,Lagos,11,Product_11,"Home Appliance",3,133340.00,400020.00,Delivered,2024-09-08,7
+349,2024-03-11,2024-03,Lagos,17,Product_17,Electronics,5,11190.00,55950.00,Delivered,2024-03-14,3
+350,2024-11-28,2024-11,Abuja,14,Product_14,Kitchen,5,106120.00,530600.00,Delivered,2024-12-04,6
+351,2024-04-21,2024-04,Enugu,13,Product_13,Kitchen,3,144850.00,434550.00,Delivered,2024-04-23,2
+352,2024-06-10,2024-06,Kano,20,Product_20,Electronics,5,110970.00,554850.00,Delivered,2024-06-14,4
+353,2024-05-25,2024-05,Ibadan,7,Product_7,Kitchen,5,94970.00,474850.00,Delivered,2024-05-26,1
+354,2024-04-06,2024-04,Abuja,16,Product_16,Electronics,4,25780.00,103120.00,Delivered,2024-04-11,5
+355,2024-09-12,2024-09,Ibadan,11,Product_11,"Home Appliance",2,64160.00,128320.00,Delivered,2024-09-14,2
+356,2024-10-18,2024-10,Lagos,1,Product_1,Electronics,5,19450.00,97250.00,Delivered,2024-10-27,9
+357,2024-05-14,2024-05,Ibadan,21,Product_21,"Home Appliance",5,117400.00,587000.00,Delivered,2024-05-15,1
+358,2024-08-04,2024-08,Abuja,9,Product_9,"Home Appliance",1,53390.00,53390.00,Delivered,2024-08-06,2
+359,2024-09-18,2024-09,Abuja,18,Product_18,"Home Appliance",3,64700.00,194100.00,Cancelled,NULL,NULL
+360,2024-11-20,2024-11,Abuja,2,Product_2,"Home Appliance",2,22070.00,44140.00,Delivered,2024-11-22,2
+361,2024-08-10,2024-08,Enugu,22,Product_22,Kitchen,2,26720.00,53440.00,Delivered,2024-08-20,10
+362,2024-12-28,2024-12,Kano,17,Product_17,Electronics,3,33370.00,100110.00,Delivered,2024-12-29,1
+363,2024-03-05,2024-03,Lagos,11,Product_11,"Home Appliance",4,48080.00,192320.00,Delivered,2024-03-10,5
+364,2024-02-02,2024-02,Kano,12,Product_12,"Home Appliance",1,79950.00,79950.00,Delivered,2024-02-12,10
+365,2024-10-17,2024-10,Kano,22,Product_22,Kitchen,1,41980.00,41980.00,Delivered,2024-10-20,3
+366,2024-09-17,2024-09,"Port Harcourt",5,Product_5,Electronics,2,140360.00,280720.00,Delivered,2024-09-18,1
+367,2024-01-19,2024-01,Enugu,11,Product_11,"Home Appliance",3,125640.00,376920.00,Delivered,2024-01-26,7
+368,2024-10-19,2024-10,Abuja,17,Product_17,Electronics,1,143570.00,143570.00,Delivered,2024-10-28,9
+369,2024-02-05,2024-02,Ibadan,11,Product_11,"Home Appliance",1,87430.00,87430.00,Cancelled,NULL,NULL
+370,2024-01-05,2024-01,Kano,8,Product_8,"Home Appliance",4,61560.00,246240.00,Delivered,2024-01-10,5
+371,2024-09-09,2024-09,Enugu,18,Product_18,"Home Appliance",2,31080.00,62160.00,Cancelled,NULL,NULL
+372,2024-07-28,2024-07,Lagos,11,Product_11,"Home Appliance",1,116250.00,116250.00,Delivered,2024-08-06,9
+373,2024-07-11,2024-07,Abuja,14,Product_14,Kitchen,4,144570.00,578280.00,Delivered,2024-07-16,5
+374,2024-03-13,2024-03,Kano,14,Product_14,Kitchen,3,74180.00,222540.00,Delivered,2024-03-15,2
+375,2024-02-13,2024-02,Lagos,19,Product_19,"Home Appliance",5,18720.00,93600.00,Delivered,2024-02-22,9
+376,2024-12-05,2024-12,Ibadan,11,Product_11,"Home Appliance",4,108100.00,432400.00,Cancelled,NULL,NULL
+377,2024-06-16,2024-06,Abuja,19,Product_19,"Home Appliance",1,31760.00,31760.00,Delivered,2024-06-21,5
+378,2024-03-25,2024-03,Abuja,15,Product_15,"Home Appliance",3,74870.00,224610.00,Delivered,2024-03-31,6
+379,2024-03-02,2024-03,Lagos,7,Product_7,Kitchen,3,30770.00,92310.00,Delivered,2024-03-07,5
+380,2024-12-30,2024-12,Ibadan,9,Product_9,"Home Appliance",2,14350.00,28700.00,Delivered,2025-01-05,6
+381,2024-07-26,2024-07,Kano,8,Product_8,"Home Appliance",1,74690.00,74690.00,Cancelled,NULL,NULL
+382,2024-03-12,2024-03,Abuja,7,Product_7,Kitchen,4,62110.00,248440.00,Delivered,2024-03-13,1
+383,2024-11-18,2024-11,Kano,9,Product_9,"Home Appliance",1,13050.00,13050.00,Cancelled,NULL,NULL
+384,2024-02-03,2024-02,Ibadan,4,Product_4,"Home Appliance",1,141920.00,141920.00,Delivered,2024-02-11,8
+385,2024-01-26,2024-01,"Port Harcourt",1,Product_1,Electronics,4,105650.00,422600.00,Delivered,2024-02-05,10
+386,2024-03-29,2024-03,Abuja,2,Product_2,"Home Appliance",5,96680.00,483400.00,Delivered,2024-04-01,3
+387,2024-05-05,2024-05,Lagos,3,Product_3,"Home Appliance",3,63620.00,190860.00,Delivered,2024-05-13,8
+388,2024-08-02,2024-08,Kano,1,Product_1,Electronics,4,119470.00,477880.00,Delivered,2024-08-11,9
+389,2024-07-02,2024-07,Ibadan,13,Product_13,Kitchen,3,35170.00,105510.00,Delivered,2024-07-10,8
+390,2024-06-12,2024-06,Lagos,16,Product_16,Electronics,5,60040.00,300200.00,Delivered,2024-06-13,1
+391,2024-10-26,2024-10,Lagos,8,Product_8,"Home Appliance",2,47310.00,94620.00,Cancelled,NULL,NULL
+392,2024-01-29,2024-01,"Port Harcourt",12,Product_12,"Home Appliance",2,34650.00,69300.00,Delivered,2024-02-02,4
+393,2024-10-30,2024-10,Enugu,12,Product_12,"Home Appliance",5,88900.00,444500.00,Delivered,2024-11-05,6
+394,2024-10-15,2024-10,"Port Harcourt",18,Product_18,"Home Appliance",3,34580.00,103740.00,Cancelled,NULL,NULL
+31,2024-01-20,2024-01,Lagos,11,Product_11,"Home Appliance",5,38210.00,191050.00,Delivered,2024-01-24,4
+396,2024-03-07,2024-03,Ibadan,2,Product_2,"Home Appliance",1,30680.00,30680.00,Delivered,2024-03-10,3
+397,2024-12-26,2024-12,Kano,12,Product_12,"Home Appliance",1,62300.00,62300.00,Cancelled,NULL,NULL
+398,2024-12-05,2024-12,Abuja,24,Product_24,Kitchen,4,120860.00,483440.00,Delivered,2024-12-07,2
+399,2024-09-06,2024-09,Kano,12,Product_12,"Home Appliance",2,103170.00,206340.00,Delivered,2024-09-09,3
+400,2024-03-30,2024-03,Enugu,19,Product_19,"Home Appliance",4,129110.00,516440.00,Delivered,2024-04-04,5
+401,2024-10-17,2024-10,Kano,8,Product_8,"Home Appliance",5,24580.00,122900.00,Delivered,2024-10-27,10
+402,2024-09-11,2024-09,Abuja,21,Product_21,"Home Appliance",1,125030.00,125030.00,Delivered,2024-09-13,2
+403,2024-12-09,2024-12,Abuja,23,Product_23,"Home Appliance",1,59070.00,59070.00,Delivered,2024-12-15,6
+404,2024-02-25,2024-02,Abuja,14,Product_14,Kitchen,4,133450.00,533800.00,Delivered,2024-02-26,1
+405,2024-06-28,2024-06,Kano,21,Product_21,"Home Appliance",2,32770.00,65540.00,Delivered,2024-06-30,2
+406,2024-02-07,2024-02,Lagos,3,Product_3,"Home Appliance",3,33810.00,101430.00,Delivered,2024-02-08,1
+407,2024-07-11,2024-07,Lagos,11,Product_11,"Home Appliance",5,147940.00,739700.00,Delivered,2024-07-13,2
+408,2024-09-04,2024-09,"Port Harcourt",6,Product_6,"Home Appliance",1,24180.00,24180.00,Delivered,2024-09-11,7
+409,2024-04-15,2024-04,Kano,24,Product_24,Kitchen,5,47140.00,235700.00,Cancelled,NULL,NULL
+410,2024-05-24,2024-05,"Port Harcourt",5,Product_5,Electronics,1,60520.00,60520.00,Delivered,2024-05-26,2
+411,2024-08-06,2024-08,Abuja,6,Product_6,"Home Appliance",3,146790.00,440370.00,Delivered,2024-08-16,10
+412,2024-08-30,2024-08,Enugu,9,Product_9,"Home Appliance",1,99860.00,99860.00,Delivered,2024-09-04,5
+413,2024-07-17,2024-07,Ibadan,15,Product_15,"Home Appliance",4,46880.00,187520.00,Delivered,2024-07-24,7
+414,2024-05-17,2024-05,Lagos,22,Product_22,Kitchen,3,123150.00,369450.00,Delivered,2024-05-20,3
+415,2024-07-30,2024-07,Kano,2,Product_2,"Home Appliance",4,124580.00,498320.00,Cancelled,NULL,NULL
+416,2024-08-02,2024-08,"Port Harcourt",19,Product_19,"Home Appliance",2,76680.00,153360.00,Cancelled,NULL,NULL
+417,2024-02-10,2024-02,Kano,22,Product_22,Kitchen,5,30640.00,153200.00,Delivered,2024-02-11,1
+418,2024-08-17,2024-08,Abuja,2,Product_2,"Home Appliance",4,20970.00,83880.00,Delivered,2024-08-20,3
+419,2024-12-15,2024-12,Enugu,3,Product_3,"Home Appliance",1,64330.00,64330.00,Delivered,2024-12-18,3
+420,2024-07-22,2024-07,Lagos,23,Product_23,"Home Appliance",5,92260.00,461300.00,Delivered,2024-07-27,5
+421,2024-08-02,2024-08,Lagos,4,Product_4,"Home Appliance",5,119140.00,595700.00,Delivered,2024-08-05,3
+422,2024-05-26,2024-05,"Port Harcourt",9,Product_9,"Home Appliance",4,101670.00,406680.00,Cancelled,NULL,NULL
+423,2024-10-19,2024-10,Kano,20,Product_20,Electronics,4,15430.00,61720.00,Delivered,2024-10-20,1
+424,2024-06-18,2024-06,Ibadan,1,Product_1,Electronics,3,124430.00,373290.00,Delivered,2024-06-19,1
+425,2024-06-04,2024-06,Abuja,5,Product_5,Electronics,3,146390.00,439170.00,Delivered,2024-06-12,8
+426,2024-08-14,2024-08,Enugu,3,Product_3,"Home Appliance",2,71840.00,143680.00,Delivered,2024-08-20,6
+427,2024-07-27,2024-07,Kano,6,Product_6,"Home Appliance",1,53560.00,53560.00,Delivered,2024-08-05,9
+428,2024-09-16,2024-09,Abuja,7,Product_7,Kitchen,1,44930.00,44930.00,Delivered,2024-09-25,9
+429,2024-08-21,2024-08,"Port Harcourt",17,Product_17,Electronics,4,98960.00,395840.00,Delivered,2024-08-27,6
+430,2024-03-04,2024-03,Abuja,16,Product_16,Electronics,5,87190.00,435950.00,Delivered,2024-03-08,4
+431,2024-06-25,2024-06,Ibadan,1,Product_1,Electronics,4,16950.00,67800.00,Delivered,2024-06-30,5
+432,2024-10-19,2024-10,Enugu,7,Product_7,Kitchen,3,101220.00,303660.00,Delivered,2024-10-23,4
+433,2024-09-19,2024-09,Abuja,20,Product_20,Electronics,1,41330.00,41330.00,Delivered,2024-09-20,1
+434,2024-11-07,2024-11,Ibadan,14,Product_14,Kitchen,4,129220.00,516880.00,Delivered,2024-11-12,5
+435,2024-08-23,2024-08,Kano,13,Product_13,Kitchen,5,24320.00,121600.00,Delivered,2024-08-31,8
+436,2024-09-18,2024-09,Ibadan,18,Product_18,"Home Appliance",5,95270.00,476350.00,Cancelled,NULL,NULL
+437,2024-06-01,2024-06,Enugu,11,Product_11,"Home Appliance",3,46560.00,139680.00,Delivered,2024-06-09,8
+438,2024-12-30,2024-12,Abuja,5,Product_5,Electronics,5,117170.00,585850.00,Cancelled,NULL,NULL
+439,2024-01-30,2024-01,Abuja,24,Product_24,Kitchen,1,101760.00,101760.00,Delivered,2024-02-09,10
+440,2024-05-31,2024-05,Kano,23,Product_23,"Home Appliance",5,124240.00,621200.00,Delivered,2024-06-07,7
+441,2024-06-24,2024-06,"Port Harcourt",22,Product_22,Kitchen,3,81020.00,243060.00,Delivered,2024-06-28,4
+442,2024-03-28,2024-03,Abuja,24,Product_24,Kitchen,3,111530.00,334590.00,Delivered,2024-04-06,9
+443,2024-10-13,2024-10,Enugu,3,Product_3,"Home Appliance",2,59740.00,119480.00,Delivered,2024-10-16,3
+444,2024-06-06,2024-06,"Port Harcourt",4,Product_4,"Home Appliance",4,17510.00,70040.00,Delivered,2024-06-12,6
+445,2024-11-20,2024-11,Kano,4,Product_4,"Home Appliance",4,84180.00,336720.00,Delivered,2024-11-30,10
+446,2024-07-30,2024-07,"Port Harcourt",19,Product_19,"Home Appliance",4,30050.00,120200.00,Delivered,2024-08-02,3
+447,2024-04-02,2024-04,Ibadan,21,Product_21,"Home Appliance",1,10660.00,10660.00,Delivered,2024-04-10,8
+448,2024-05-20,2024-05,Lagos,5,Product_5,Electronics,5,70720.00,353600.00,Delivered,2024-05-23,3
+449,2024-08-07,2024-08,Abuja,24,Product_24,Kitchen,3,143010.00,429030.00,Delivered,2024-08-15,8
+450,2024-06-13,2024-06,Enugu,24,Product_24,Kitchen,2,41680.00,83360.00,Delivered,2024-06-22,9
+451,2024-06-25,2024-06,Abuja,3,Product_3,"Home Appliance",1,51750.00,51750.00,Delivered,2024-06-27,2
+452,2024-05-28,2024-05,Enugu,5,Product_5,Electronics,3,149460.00,448380.00,Delivered,2024-06-06,9
+453,2024-09-07,2024-09,"Port Harcourt",1,Product_1,Electronics,2,41400.00,82800.00,Delivered,2024-09-11,4
+454,2024-03-08,2024-03,Ibadan,23,Product_23,"Home Appliance",1,62530.00,62530.00,Delivered,2024-03-09,1
+455,2024-11-23,2024-11,Lagos,22,Product_22,Kitchen,1,101500.00,101500.00,Delivered,2024-12-02,9
+456,2024-01-11,2024-01,Kano,9,Product_9,"Home Appliance",4,108260.00,433040.00,Delivered,2024-01-13,2
+457,2024-04-15,2024-04,Enugu,17,Product_17,Electronics,3,97190.00,291570.00,Delivered,2024-04-16,1
+458,2024-12-24,2024-12,Ibadan,4,Product_4,"Home Appliance",1,79680.00,79680.00,Delivered,2024-12-26,2
+459,2024-11-07,2024-11,Ibadan,23,Product_23,"Home Appliance",4,51350.00,205400.00,Delivered,2024-11-12,5
+460,2024-01-21,2024-01,Abuja,1,Product_1,Electronics,1,104030.00,104030.00,Delivered,2024-01-25,4
+461,2024-02-26,2024-02,Kano,3,Product_3,"Home Appliance",1,136670.00,136670.00,Delivered,2024-03-05,8
+462,2024-11-25,2024-11,Abuja,2,Product_2,"Home Appliance",3,60430.00,181290.00,Delivered,2024-11-30,5
+463,2024-12-12,2024-12,Lagos,1,Product_1,Electronics,2,102870.00,205740.00,Delivered,2024-12-14,2
+464,2024-03-28,2024-03,Enugu,3,Product_3,"Home Appliance",3,124100.00,372300.00,Delivered,2024-04-05,8
+465,2024-04-03,2024-04,"Port Harcourt",23,Product_23,"Home Appliance",4,121990.00,487960.00,Delivered,2024-04-10,7
+466,2024-11-28,2024-11,Abuja,23,Product_23,"Home Appliance",1,147420.00,147420.00,Cancelled,NULL,NULL
+467,2024-03-22,2024-03,"Port Harcourt",6,Product_6,"Home Appliance",5,63170.00,315850.00,Delivered,2024-04-01,10
+468,2024-07-02,2024-07,"Port Harcourt",15,Product_15,"Home Appliance",1,18870.00,18870.00,Delivered,2024-07-05,3
+469,2024-12-01,2024-12,Kano,8,Product_8,"Home Appliance",3,82670.00,248010.00,Delivered,2024-12-10,9
+470,2024-12-18,2024-12,"Port Harcourt",12,Product_12,"Home Appliance",4,30810.00,123240.00,Delivered,2024-12-20,2
+471,2024-10-12,2024-10,Lagos,21,Product_21,"Home Appliance",2,80780.00,161560.00,Cancelled,NULL,NULL
+472,2024-08-28,2024-08,Lagos,16,Product_16,Electronics,3,43720.00,131160.00,Cancelled,NULL,NULL
+473,2024-05-22,2024-05,Abuja,3,Product_3,"Home Appliance",4,72190.00,288760.00,Delivered,2024-05-26,4
+474,2024-10-20,2024-10,"Port Harcourt",24,Product_24,Kitchen,1,24370.00,24370.00,Delivered,2024-10-28,8
+475,2024-07-30,2024-07,Kano,20,Product_20,Electronics,3,134620.00,403860.00,Delivered,NULL,NULL
+476,2024-10-14,2024-10,Lagos,8,Product_8,"Home Appliance",4,56480.00,225920.00,Delivered,2024-10-22,8
+477,2024-11-13,2024-11,Enugu,8,Product_8,"Home Appliance",1,57790.00,57790.00,Delivered,2024-11-19,6
+478,2024-11-20,2024-11,Kano,12,Product_12,"Home Appliance",1,16410.00,16410.00,Cancelled,NULL,NULL
+479,2024-03-25,2024-03,Abuja,4,Product_4,"Home Appliance",4,40180.00,160720.00,Delivered,2024-04-01,7
+480,2024-04-07,2024-04,Enugu,22,Product_22,Kitchen,5,27250.00,136250.00,Delivered,2024-04-09,2
